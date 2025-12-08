@@ -1,4 +1,5 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B16CF7&width=435&lines=Hello%2C+I'm+Luc%C3%ADa+✨)](https://git.io/typing-svg)
+
 
 <!--
 **luciacopano/luciacopano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:woman_technologist: I'm currently studying Computer Science.

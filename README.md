@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 :woman_technologist: I'm currently studying Computer Science.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciacopano&layout=compact&theme=default&hide=html,css)
+
+
 
 
